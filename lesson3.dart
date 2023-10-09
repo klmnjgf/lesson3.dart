@@ -50,6 +50,9 @@ void main(List<String> args) {
   test = 42;
   test = 52;
 
-  final useName; 
-  userName1 = Aisuluu
+  final useName;
+  // userName1 = Aisuluu\
+
+  var abc = 10;
+  print(abc);
 }
